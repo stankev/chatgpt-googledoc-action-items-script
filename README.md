@@ -5,7 +5,7 @@ Examples for using Google Apps Script in Google Doc to make API calls to OpenAI 
 
 
 ## Instructions
-Detailed instructions for implementing this script in a Google Doc can be found in this blog post: 
+Detailed instructions for implementing this script in a Google Doc can be found in this blog post: https://www.aiinnovate360.com/post/how-to-use-openai-apis-to-generate-action-items-in-google-docs-a-guide
 ## Dependencies
 - Access to Google Docs
 - Requires an [OpenAI API Account](https://openai.com/product) and the API Key
